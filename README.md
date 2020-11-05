@@ -1,4 +1,4 @@
-# Team-Generator
+# Team-Profile-Generator
 
 ## Description
  
